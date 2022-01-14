@@ -27,9 +27,9 @@ def predict():
                 Fuel_Type_Petrol=1
                 Fuel_Type_Diesel=0
         elif(Fuel_Type_Petrol=='Diesel'):
-				Fuel_Type_Petrol=0
-                Fuel_Type_Diesel=1
-		else:
+            Fuel_Type_Petrol=0
+            Fuel_Type_Diesel=1
+        else:
             Fuel_Type_Petrol=0
             Fuel_Type_Diesel=0
         Year=2020-Year
@@ -38,7 +38,7 @@ def predict():
             Seller_Type_Individual=1
         else:
             Seller_Type_Individual=0	
-        Transmission_Mannual=request.form['Transmission_Manual']
+        Transmission_Mannual=request.form['Transmission_Mannual']
         if(Transmission_Mannual=='Mannual'):
             Transmission_Mannual=1
         else:

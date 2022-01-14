@@ -1,21 +1,56 @@
-atomicwrites @ file:///home/conda/feedstock_root/build_artifacts/atomicwrites_1588182545583/work
-attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1640799537051/work
+atomicwrites==1.4.0
+attrs==21.4.0
+blas==1.0
+ca-certificates==2021.10.8
 certifi==2021.10.8
-colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
-iniconfig @ file:///home/conda/feedstock_root/build_artifacts/iniconfig_1603384189793/work
-joblib @ file:///tmp/build/80754af9/joblib_1635411271373/work
-mkl-fft==1.3.1
-mkl-random @ file:///C:/ci/mkl_random_1626186184308/work
+charset-normalizer==2.0.10
+click==8.0.3
+colorama==0.4.4
+flask==2.0.2
+icc_rt==2019.0.0
+idna==3.3
+iniconfig==1.1.1
+intel-openmp==2021.4.0
+itsdangerous==2.0.1
+jinja2==3.0.3
+joblib==1.1.0
+jsonify==0.5
+libblas==3.9.0
+libcblas==3.9.0
+m2w64-gcc-libgfortran==5.3.0
+m2w64-gcc-libs==5.3.0
+m2w64-gcc-libs-core==5.3.0
+m2w64-gmp==6.1.0
+m2w64-libwinpthread-git==5.0.0.4634.697f757
+markupsafe==2.0.1
+mkl==2021.4.0
 mkl-service==2.4.0
-numpy @ file:///C:/ci/numpy_and_numpy_base_1634088717532/work
-packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1637239678211/work
-pluggy @ file:///D:/bld/pluggy_1635832967898/work
-py @ file:///home/conda/feedstock_root/build_artifacts/py_1636301881863/work
-pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1636757021002/work
+mkl_fft==1.3.1
+mkl_random==1.2.2
+msys2-conda-epoch==20160418
+numpy==1.21.2
+numpy-base==1.21.2
+openssl==1.1.1l
+packaging==21.3
+pip==21.2.4
+pluggy==1.0.0
+py==1.11.0
+pyparsing==3.0.6
 pytest==6.2.5
-scikit-learn @ file:///D:/bld/scikit-learn_1640464393983/work
-scipy @ file:///C:/ci/scipy_1641555170412/work
-six @ file:///tmp/build/80754af9/six_1623709665295/work
-threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
-toml @ file:///home/conda/feedstock_root/build_artifacts/toml_1604308577558/work
+python==3.9.7
+python_abi==3.9
+requests==2.27.1
+scikit-learn==0.24.2
+scipy==1.7.3
+setuptools==58.0.4
+six==1.16.0
+sqlite==3.37.0
+threadpoolctl==2.2.0
+toml==0.10.2
+tzdata==2021e
+urllib3==1.26.8
+vc==14.2
+vs2015_runtime==14.27.29016
+werkzeug==2.0.2
+wheel==0.37.1
 wincertstore==0.2
