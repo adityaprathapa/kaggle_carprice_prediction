@@ -1,2 +1,2 @@
-# kaggle_carprice_prediction
-Car price Prediction
+# Kaggle Car Price Prediction
+Car Price Prediction dataset from CarDekho
